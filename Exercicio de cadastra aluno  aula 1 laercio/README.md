@@ -43,7 +43,7 @@ Neste exercício foram utilizados conceitos importantes de C#:
 
 ## 📂 Arquivo principal
 
-- `Program.cs` → Contém toda a lógica do sistema de cadastro.
+- [`Program.cs`](Program.cs) → Contém toda a lógica do sistema de cadastro.
 
 ---
 
@@ -51,4 +51,4 @@ Neste exercício foram utilizados conceitos importantes de C#:
 
 ⬅️ Voltar para o repositório principal:
 
-[🏠 Página inicial do repositório](../../README.md)
+[🏠 Página inicial do repositório](Aprende-C-)
