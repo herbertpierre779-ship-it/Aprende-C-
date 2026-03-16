@@ -51,4 +51,4 @@ Neste exercício foram utilizados conceitos importantes de C#:
 
 ⬅️ Voltar para o repositório principal:
 
-[🏠 Página inicial do repositório](Aprende-C-)
+[🏠 Página inicial do repositório](../../Aprende-C-)
