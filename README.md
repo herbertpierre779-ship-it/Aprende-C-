@@ -39,7 +39,7 @@ Cada pasta representa uma etapa do aprendizado ou um tipo de projeto diferente.
 
 Sistema simples em **C#** para cadastro de alunos, cálculo de média e verificação de aprovação.
 
-➡️ [Abrir exercício](Exercicio%20de%20cadastra%20aluno%20aula%201%20laercio/)
+➡️ [Abrir exercício](Exercicio%20de%20cadastra%20aluno%20%20aula%201%20laercio)
 
 ---
 
