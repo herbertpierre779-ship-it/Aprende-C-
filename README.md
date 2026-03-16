@@ -7,7 +7,7 @@ Este repositório reúne meus estudos e práticas na linguagem **C#**.
 Meu aprendizado começou ainda no **ensino médio** e continuou posteriormente durante minha **formação na faculdade**.  
 O objetivo deste repositório é registrar minha evolução aprendendo uma **nova linguagem de programação**, explorando conceitos fundamentais e desenvolvendo projetos práticos.
 
-Um dos principais motivos para estudar **C#** foi também o interesse em **desenvolvimento de jogos**, além da influência e incentivo de um amigo, **Vinícius**, que já trabalha e compartilha conhecimento nessa área.
+Um dos principais motivos para estudar **C#** foi também o interesse em **desenvolvimento de jogos**, além da influência e incentivo de um amigo, **Vinícius**, que já tambem esta estudando c#
 
 🔗 GitHub do Vinícius:  
 [gitdo vinicios]
@@ -56,8 +56,4 @@ Este repositório funciona como um **diário de aprendizado**, mostrando a evolu
 
 Este repositório é focado em aprendizado, mas sugestões, melhorias e ideias são sempre bem-vindas.
 
-Sinta-se à vontade para abrir **issues** ou **pull requests**.
-
 ---
-
-⭐ Se este repositório for útil ou interessante, considere deixar uma estrela!
