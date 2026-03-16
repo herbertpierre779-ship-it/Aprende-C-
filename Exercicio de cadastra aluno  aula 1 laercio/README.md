@@ -51,4 +51,4 @@ Neste exercício foram utilizados conceitos importantes de C#:
 
 ⬅️ Voltar para o repositório principal:
 
-[🏠 Página inicial do repositório](../../README.md)
+[🏠 Página inicial do repositório](https://github.com/herbertpierre779-ship-it/Aprende-C-)
